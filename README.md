@@ -1,4 +1,4 @@
-# Docker_Terraform
+# Docker_Nexus
 
 This is a simple docker image that sets up nexus.
 
